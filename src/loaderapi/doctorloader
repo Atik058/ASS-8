@@ -1,0 +1,7 @@
+import { defer } from "react-router-dom";
+
+export function doctorsLoader() {
+  return defer({
+    doctors: fetch('/doctors.json').then(res => res.json())
+  });
+}

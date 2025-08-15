@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Cameron Williamson",
+    "qualifications": "MBBS, MD - General Medicine, DNB",
+    "regNo": "Reg No: BD12451254",
+    "available": true,
+    "experience": "5+ Years Experience",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&auto=format&fit=crop",
+    "specialty": "General Physician",
+    "workingPlace": {
+      "hospital": "City General Hospital",
+      "address": "123 Medical Center Drive, Healthville, HV 12345"
+    },
+    "availability": [
+      { "day": "Monday", "time": "9:00 AM - 5:00 PM" },
+      { "day": "Wednesday", "time": "10:00 AM - 7:00 PM" },
+      { "day": "Friday", "time": "8:00 AM - 4:00 PM" }
+    ],
+    "consultationFee": 75,
+    "currency": "USD"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Sarah Johnson",
+    "qualifications": "MD - Pediatrics, FAAP",
+    "regNo": "Reg No: PD78965412",
+    "available": true,
+    "experience": "8+ Years Experience",
+    "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400&auto=format&fit=crop",
+    "specialty": "Pediatrician",
+    "workingPlace": {
+      "hospital": "Children's Wellness Center",
+      "address": "456 Kids Avenue, Pediatown, PT 67890"
+    },
+    "availability": [
+      { "day": "Tuesday", "time": "8:00 AM - 3:00 PM" },
+      { "day": "Thursday", "time": "9:00 AM - 6:00 PM" },
+      { "day": "Saturday", "time": "10:00 AM - 2:00 PM" }
+    ],
+    "consultationFee": 90,
+    "currency": "USD"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Michael Chen",
+    "qualifications": "MBBS, MS - Orthopedics",
+    "regNo": "Reg No: OR45612378",
+    "available": false,
+    "experience": "12+ Years Experience",
+    "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=400&auto=format&fit=crop",
+    "specialty": "Orthopedic Surgeon",
+    "workingPlace": {
+      "hospital": "Bone & Joint Institute",
+      "address": "789 Skeletal Road, Orthoville, OR 34567"
+    },
+    "availability": [
+      { "day": "Monday", "time": "7:00 AM - 12:00 PM" },
+      { "day": "Wednesday", "time": "1:00 PM - 6:00 PM" },
+      { "day": "Friday", "time": "8:00 AM - 3:00 PM" }
+    ],
+    "consultationFee": 120,
+    "currency": "USD"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Emily Rodriguez",
+    "qualifications": "MD - Cardiology, FACC",
+    "regNo": "Reg No: CR75315982",
+    "available": true,
+    "experience": "15+ Years Experience",
+    "image": "https://images.unsplash.com/photo-1551601651-bc60f254d532?w=400&auto=format&fit=crop",
+    "specialty": "Cardiologist",
+    "workingPlace": {
+      "hospital": "Heart Care Specialists",
+      "address": "321 Pulse Lane, Cardiotown, CT 45678"
+    },
+    "availability": [
+      { "day": "Tuesday", "time": "8:30 AM - 4:30 PM" },
+      { "day": "Thursday", "time": "7:30 AM - 2:30 PM" },
+      { "day": "Saturday", "time": "9:00 AM - 1:00 PM" }
+    ],
+    "consultationFee": 150,
+    "currency": "USD"
+  },
+  {
+    "id": 5,
+    "name": "Dr. James Wilson",
+    "qualifications": "MBBS, MD - Dermatology",
+    "regNo": "Reg No: DT85296314",
+    "available": true,
+    "experience": "7+ Years Experience",
+    "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=400&auto=format&fit=crop",
+    "specialty": "Dermatologist",
+    "workingPlace": {
+      "hospital": "Skin Health Clinic",
+      "address": "654 Epidermis Street, Dermaville, DV 23456"
+    },
+    "availability": [
+      { "day": "Monday", "time": "10:00 AM - 6:00 PM" },
+      { "day": "Wednesday", "time": "9:00 AM - 5:00 PM" },
+      { "day": "Friday", "time": "8:00 AM - 4:00 PM" }
+    ],
+    "consultationFee": 110,
+    "currency": "USD"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Priya Patel",
+    "qualifications": "MBBS, MS - Obstetrics & Gynecology",
+    "regNo": "Reg No: OG36925814",
+    "available": true,
+    "experience": "9+ Years Experience",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&auto=format&fit=crop",
+    "specialty": "Gynecologist",
+    "workingPlace": {
+      "hospital": "Women's Health Center",
+      "address": "987 Femcare Boulevard, Gynoville, GV 56789"
+    },
+    "availability": [
+      { "day": "Tuesday", "time": "8:00 AM - 4:00 PM" },
+      { "day": "Thursday", "time": "9:00 AM - 5:00 PM" },
+      { "day": "Saturday", "time": "10:00 AM - 3:00 PM" }
+    ],
+    "consultationFee": 95,
+    "currency": "USD"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Robert Kim",
+    "qualifications": "MD - Neurology, FAAN",
+    "regNo": "Reg No: NR14725836",
+    "available": false,
+    "experience": "14+ Years Experience",
+    "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=400&auto=format&fit=crop",
+    "specialty": "Neurologist",
+    "workingPlace": {
+      "hospital": "Neuro Care Institute",
+      "address": "258 Synapse Street, Neurotown, NT 34512"
+    }, 
+    "availability": [
+      { "day": "Monday", "time": "7:30 AM - 2:30 PM" },
+      { "day": "Wednesday", "time": "8:30 AM - 4:30 PM" },
+      { "day": "Friday", "time": "9:00 AM - 3:00 PM" }
+    ],
+    "consultationFee": 180,
+    "currency": "USD"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Lisa Wong",
+    "qualifications": "DDS, MS - Orthodontics",
+    "regNo": "Reg No: DT96385241",
+    "available": true,
+    "experience": "6+ Years Experience",
+    "image": "https://images.unsplash.com/photo-1551601651-bc60f254d532?w=400&auto=format&fit=crop",
+    "specialty": "Dentist",
+    "workingPlace": {
+      "hospital": "Bright Smile Dental",
+      "address": "753 Enamel Avenue, Dentville, DV 67845"
+    },
+    "availability": [
+      { "day": "Tuesday", "time": "8:00 AM - 5:00 PM" },
+      { "day": "Thursday", "time": "9:00 AM - 6:00 PM" },
+      { "day": "Saturday", "time": "8:30 AM - 12:30 PM" }
+    ],
+    "consultationFee": 85,
+    "currency": "USD"
+  },
+  {
+    "id": 9,
+    "name": "Dr. David Miller",
+    "qualifications": "MBBS, MD - Psychiatry",
+    "regNo": "Reg No: PS85296374",
+    "available": true,
+    "experience": "11+ Years Experience",
+    "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=400&auto=format&fit=crop",
+    "specialty": "Psychiatrist",
+    "workingPlace": {
+      "hospital": "Mind Wellness Center",
+      "address": "159 Therapy Lane, Psychville, PV 12398"
+    },
+    "availability": [
+      { "day": "Monday", "time": "10:00 AM - 7:00 PM" },
+      { "day": "Wednesday", "time": "9:00 AM - 5:00 PM" },
+      { "day": "Friday", "time": "8:00 AM - 4:00 PM" }
+    ],
+    "consultationFee": 130,
+    "currency": "USD"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Angela Martinez",
+    "qualifications": "MBBS, MD - Ophthalmology",
+    "regNo": "Reg No: OP74185296",
+    "available": true,
+    "experience": "10+ Years Experience",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&auto=format&fit=crop",
+    "specialty": "Ophthalmologist",
+    "workingPlace": {
+      "hospital": "Vision Care Clinic",
+      "address": "357 Retina Road, Oculartown, OT 45632"
+    },
+    "availability": [
+      { "day": "Tuesday", "time": "8:30 AM - 4:30 PM" },
+      { "day": "Thursday", "time": "9:00 AM - 6:00 PM" },
+      { "day": "Saturday", "time": "9:00 AM - 2:00 PM" }
+    ],
+    "consultationFee": 115,
+    "currency": "USD"
+  }
+]
